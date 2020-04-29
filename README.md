@@ -3,6 +3,7 @@ Example codes and experiments around machine learning algorithms (by language) t
 Python:
 - Beta distribution implementation in Python 
 - Gaussian Mixture Model implementation in Python (new sample generator from the same distribution)
+- Kernel Density Estimation implementation in Python (new sample generator from the same distribution)
 
  
 R:
