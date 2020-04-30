@@ -5,6 +5,7 @@ Python:
 - Gaussian Mixture Model implementation in Python (new sample generator from the same distribution)
 - Kernel Density Estimation implementation in Python (new sample generator from the same distribution)
 - Sklearn Classification implementation in Python (classifiers comparison)
+- Sklearn Regression implementation in Python [using PipeLine] (LinearRegression vs RandomForestRegressor) 
 - To be continued...
  
 R:
