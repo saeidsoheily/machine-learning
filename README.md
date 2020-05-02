@@ -11,5 +11,6 @@ Python:
 - To be continued...
  
 R:
+- Kmeans Clustering implementation in R
 - To be continued...
 
