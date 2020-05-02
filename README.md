@@ -7,6 +7,7 @@ Python:
 - Sklearn Classification implementation in Python (classifiers comparison)
 - Sklearn Regression implementation in Python [using PipeLine] (LinearRegression vs RandomForestRegressor) 
 - PySpark Classification implementation in Python [using PipeLine] (RandomForestClassifier)
+- Genetic Algorithm implementation in Python (Solving Mathematical Equality Problem)
 - To be continued...
  
 R:
