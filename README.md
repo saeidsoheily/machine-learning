@@ -8,6 +8,7 @@ Python:
 - Sklearn Regression implementation in Python [using PipeLine] (LinearRegression vs RandomForestRegressor) 
 - PySpark Classification implementation in Python [using PipeLine] (RandomForestClassifier)
 - Genetic Algorithm implementation in Python (Solving Mathematical Equality Problem)
+- TensorFlow MNIST Classification implementation in Python [using TensorFlow v1.x] (Deep Learning) 
 - To be continued...
  
 R:
