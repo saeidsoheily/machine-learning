@@ -167,7 +167,7 @@ if __name__ == '__main__':
     plt.title('CONFUSION MATRIX (HEATMAP)', fontsize=12)
 
     # To save the plot locally
-    plt.savefig('tensorflow_v1.x_classification_cm.png', bbox_inches='tight')
+    plt.savefig('tensorflow_v1.x_linearclassification_cm.png', bbox_inches='tight')
     plt.show()
 
     # False Positive Rate, True Positive Rate and Area Under Curve-ROC
@@ -204,5 +204,5 @@ if __name__ == '__main__':
     axes[1].legend(loc="lower left")
 
     # To save the plot locally
-    plt.savefig('tensorflow_v1.x_classification.png', bbox_inches='tight')
+    plt.savefig('tensorflow_v1.x_linearclassification.png', bbox_inches='tight')
     plt.show()
