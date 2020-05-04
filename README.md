@@ -10,6 +10,8 @@ Python:
 - Genetic Algorithm implementation in Python (Solving Mathematical Equality Problem)
 - TensorFlow MNIST Classification implementation in Python [using TensorFlow v1.x] (Deep Learning) 
 - TensorFlow Linear Classification implementation in Python [using TensorFlow v1.x]
+- TensorFlow DNN Classification implementation in Python [using TensorFlow v1.x] (Deep Neural Network)
+- TensorFlow Classification implementation in Python [using TensorFlow v1.x] (classifiers comparison)
 - To be continued...
  
 R:
