@@ -9,6 +9,7 @@ Python:
 - PySpark Classification implementation in Python [using PipeLine] (RandomForestClassifier)
 - Genetic Algorithm implementation in Python (Solving Mathematical Equality Problem)
 - TensorFlow MNIST Classification implementation in Python [using TensorFlow v1.x] (Deep Learning) 
+- TensorFlow Linear Classification implementation in Python [using TensorFlow v1.x]
 - To be continued...
  
 R:
