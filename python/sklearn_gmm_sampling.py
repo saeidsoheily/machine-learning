@@ -1,6 +1,6 @@
 __author__ = 'Saeid SOHILY-KHAH'
 """
-Machine learning algorithms: Gaussian Mixture Model (Probability Distribution) 
+Machine learning algorithms: Gaussian Mixture Model for New Sample Generating [using Sklearn]
 """
 import random
 import itertools
