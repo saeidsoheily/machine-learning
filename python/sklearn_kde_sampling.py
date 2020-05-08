@@ -1,6 +1,6 @@
 __author__ = 'Saeid SOHILY-KHAH'
 """
-Machine learning algorithms: Kernel Density Estimation
+Machine learning algorithms: Kernel Density Estimation for New Sample Generating [using Sklearn]
 """
 import random
 import numpy as np
