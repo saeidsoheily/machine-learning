@@ -194,7 +194,7 @@ if __name__ == '__main__':
     axes[0].plot(history.history['accuracy'],
                  label='Train Accuracy={}'.format(round(history.history['accuracy'][-1], 3)))
     axes[0].plot(history.history['val_accuracy'],
-                 label='Train Accuracy={}'.format(round(history.history['val_accuracy'][-1], 3)))
+                 label='Validation Accuracy={}'.format(round(history.history['val_accuracy'][-1], 3)))
     axes[0].set_xlim([0.0, len(history.history['accuracy'])])
     axes[0].set_xlabel('Epoch')
     axes[0].set_ylabel('Accuracy')
