@@ -15,9 +15,9 @@ Python:
 - TensorFlow Linear Classification implementation in Python [using TensorFlow v1.x]
 - TensorFlow MLP Classification implementation in Python [using TensorFlow v1.x] (Deep Neural Network)
 - TensorFlow MNIST Classification implementation in Python [using TensorFlow v1.x] (Deep Learning) 
-- TensorFlow.Keras DNN Binary Classification implementation in Python [using TensorFlow v2.x] (Deep Neural Network)
-- TensorFlow.Keras DNN Binary Classification Imbalanced Data implementation in Python [using TensorFlow v2.x] (Deep Neural Network)
-- TensorFlow.Keras DNN Regression implementation in Python [using TensorFlow v2.x] (Deep Neural Network)
+- TensorFlow.Keras DNN Binary Classification implementation in Python [using TensorFlow v2.x] 
+- TensorFlow.Keras DNN Binary Classification Imbalanced Data implementation in Python [using TensorFlow v2.x] 
+- TensorFlow.Keras DNN Regression implementation in Python [using TensorFlow v2.x] 
 - To be continued...
  
 R:
